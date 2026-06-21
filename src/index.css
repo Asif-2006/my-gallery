@@ -1,0 +1,14 @@
+@import "tailwindcss";
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+.dancing {
+  font-family: 'Dancing Script', cursive;
+} */
+
+@font-face {
+  font-family: 'Pencerio';
+  src: url('./assets/fonts/Pencerio-Hairline.otf') format('opentype');
+}
+
+.pencerio {
+  font-family: 'Pencerio', cursive;
+}
